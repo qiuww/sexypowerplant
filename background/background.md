@@ -1,9 +1,7 @@
 # My header
 
+my text goes here
+need to add more info
+a lot things gone
 
-
-
-my day is good. my text goes here
-
-my name is perdect
 
